@@ -1,7 +1,7 @@
 # TensorRT for Beginners: A Jupyter Notebook Walkthrough
 
 Beginner-friendly tutorial for Tensor-RT using pyTorch on YOLO-V5.
-Comparing deep learning compilation inference speed up and (dyanmic) batching.
+Comparing deep learning compilation inference speed up and (dynamic) batching.
 
 Video walkthrough and high-level explanation:
 
